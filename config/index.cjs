@@ -6,7 +6,8 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-
+  // 请将以下代码按照图示粘贴到对应位置
+  USE_PASSAGE: 'server-chan',
   // 使用微信测试号：公众号APP_ID
   APP_ID: '',
 

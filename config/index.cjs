@@ -13,7 +13,8 @@ const USER_CONFIG = {
 
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',
-
+  PROVINCE: '西安',
+  CITY: '未央区',
   
 
   USERS: [
@@ -24,8 +25,7 @@ const USER_CONFIG = {
       id: 'SCT219245TUlyx6YMAP3uZsnJ8bpXNPXSK',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',
-      PROVINCE: '西安',
-      CITY: '未央区',
+      
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '12-27',
       festivals: [

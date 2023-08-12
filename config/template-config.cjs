@@ -59,7 +59,9 @@ const TEMPLATE_CONFIG = [
         
         下一休息日：{{holidaytts.DATA}}
         
-        下一个心动日：{{birthday_message.DATA}}
+        ---
+        
+        {{birthday_message.DATA}}
 
         ---
 
